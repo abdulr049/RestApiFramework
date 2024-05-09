@@ -12,7 +12,7 @@ public class TestDataBuild {
 		AddPlace addplace = new AddPlace();
 		addplace.setAccuracy(50);
 		addplace.setName(name);
-		addplace.setPhone_number("(+91) 983 893 3937");
+		addplace.setPhone_number("(+91) 8882 893 3937");
 		addplace.setAddress(Address);
 		addplace.setWebsite("http://google.com");
 		addplace.setLanguage(Language);
